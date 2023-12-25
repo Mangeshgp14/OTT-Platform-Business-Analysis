@@ -1,15 +1,15 @@
 <h1 align="center">OTT Platform Business Analysis</h1>
 
 
-<img width="1000" src="https://github.com/Mangeshgp14/Google-Play-Store-Analysis-for-App-Launch/blob/main/play%20store%20image.jpg" >
+<img width="1000" src="https://github.com/Mangeshgp14/OTT-Platform-Business-Analysis/blob/main/Amazon-Prime-Video-Emblem.png" >
 
 <h3>Project Report : <a href="https://docs.google.com/document/d/1tdvOeqLJyLfnF6naZT3bJw_iPVHkvsiigGcEGla4Zn4/edit?usp=sharing">Link</a></h3>
 
 <h3>Business Problem</h3>
 <p>
-The client is an Android developer who wants to build an app to launch it in the Google Play store. 
-He has approached us to analyze the Play Store and provide suggestions on what kind of app to build to get the most downloads, revenue, and ratings possible.
-The Key Business Requirements are:
+Assume you work in the data analytics team of Amazon Prime. The business management head has approached the team. He/She wants to present the business overview to the executives and investors; for this, he/she seeks the help of data analytics. 
+The requirement is to analyze the dataset provided, provide key insights into the business over the years, and build a dashboard to present to the stakeholders.
+The key business requirements are as follows:
 <ol>
    <li> Identify the different types of content available on the platform. 
    </li>
