@@ -25,7 +25,7 @@ The key business requirements are as follows:
  
 </p>
 
-<h3>Tools Used</h3>
+<h3>Tech Stack</h3>
 
  <ol>
   <li>
