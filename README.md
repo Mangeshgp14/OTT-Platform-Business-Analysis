@@ -22,7 +22,7 @@ The key business requirements are as follows:
   <li>Build a dashboard to present the findings.
    </li>
  </ol>
- Apart from these requirements, if our firm can provide some additional insights or suggestions that may prove vital in the app development, they can surely do so.
+ 
 </p>
 
 <h3>Tools Used</h3>
