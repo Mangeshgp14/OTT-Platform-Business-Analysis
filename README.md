@@ -29,7 +29,16 @@ The key business requirements are as follows:
 
  <ol>
   <li>
-   Excel: Data Loading, Data cleaning, Data Analysis, Data visualization
+   Excel: Data Loading, Data Storage
+  </li>
+   <li>
+   Python (Pandas, Matplotlib): Data Loading, Data Preprocessing and EDA
+  </li>
+   <li>
+   MySQL: Data Storage of cleaned data
+  </li>
+   <li>
+   Power BI: Data Visualization
   </li>
  </ol>
  
