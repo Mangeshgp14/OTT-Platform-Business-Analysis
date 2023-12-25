@@ -36,9 +36,9 @@ The key business requirements are as follows:
 
 <h3>Key Insights</h3>
 <ol>
- <li>People always prefer free apps but we can see a significant no. of downloads for paid apps as well. So, the client can go for a paid app that can be a good source of revenue.
+ <li>‘SHOW’ is the type of content preferred by the audience compared to movies. The platform can focus on building quality shows in popular genres to attract more customers.
 </li>
- <li>In the PAID APP categories, the ‘FAMILY’ category can make the highest revenues with an average revenue of 450 million.</li>
- <li>So, the client can compromise on the revenues and build an app in the GAMES category, to achieve a good average rating of 4.28.</li>
- <li>The chart depicting the average size of the apps can help the client find the maximum limit for the size of the app to attract more customers.</li>
+ <li>Drama, thriller, fantasy, etc are some of the genres which most popular, and when combined with other genres lead to the creation of engaging content pieces.</li>
+ <li>The USA and INDIA are the two biggest production countries producing more than 60% of the content. The aim should be to utilize their resources and the competencies of some other highly rated production countries such as Japan to build quality content.</li>
+ <li>The data regarding popularity and ratings can be used to create strategies to reach a larger audience and generate revenues.</li>
 </ol>
