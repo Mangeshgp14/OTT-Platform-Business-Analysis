@@ -1,7 +1,7 @@
 <h1 align="center">OTT Platform Business Analysis</h1>
 
 
-<img width="1000" src="https://github.com/Mangeshgp14/OTT-Platform-Business-Analysis/blob/main/Amazon-Prime-Video-Emblem.png" >
+<img width="1000" src="https://github.com/Mangeshgp14/OTT-Platform-Business-Analysis-EDA-and-Dashboard-Development-/blob/main/Dashboard%20Cover%20Page.PNG" >
 
 <h3>Project Report : <a href="https://docs.google.com/document/d/1tdvOeqLJyLfnF6naZT3bJw_iPVHkvsiigGcEGla4Zn4/edit?usp=sharing">Link</a></h3>
 
