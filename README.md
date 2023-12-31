@@ -45,9 +45,9 @@ The key business requirements are as follows:
 
 <h3>Key Insights</h3>
 <ol>
- <li>‘SHOW’ is the type of content preferred by the audience compared to movies. The platform can focus on building quality shows in popular genres to attract more customers.
-</li>
- <li>Drama, thriller, fantasy, etc are some of the genres which most popular, and when combined with other genres lead to the creation of engaging content pieces.</li>
- <li>The USA and INDIA are the two biggest production countries producing more than 60% of the content. The aim should be to utilize their resources and the competencies of some other highly rated production countries such as Japan to build quality content.</li>
- <li>The data regarding popularity and ratings can be used to create strategies to reach a larger audience and generate revenues.</li>
+<li>🎥: Over the last decade, the platform has seen a tremendous increase in the quantity of content added to the platform most of which belongs to the Movie category. 86% content is of movie type. However, People prefer Shows over movies so the focus can be shifted towards adding more shows and creating movies only in the most popular and highly rated genres.</li>
+<li>🎭: A huge amount of content created by the platform belongs to a single genre ‘drama’ while people are appreciating content that has a mixture of several genres. So, the creative teams can focus on building content involving different genres and emotions to create engaging content.</li>
+<li>🌎: The USA and INDIA are the two biggest production countries producing more than 60% of the content. The aim should be to utilize their resources and the competencies of some other highly rated production countries such as Japan to build quality content.</li>
+<li>👨‍👩‍👧‍👦: The platform is creating TV-G content prominently but the analysis reveals that people are watching PG-13 and TV-MA predominantly. So, the content can be curated accordingly to increase the viewership.</li>
+
 </ol>
